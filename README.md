@@ -1,4 +1,7 @@
-## Hi there 👋
+## 💫 About Me 
+Results-oriented data professional with over 4 years of experience in business analytics, data visualization, and delivering strategic insights. Demonstrated success in research analytics, market intelligence, and engaging stakeholders to support data-driven decision-making.
+
+Proficient in SQL, Python, PostgreSQL, AWS, Linux, Tableau, Power BI, Google Looker Studio, and Excel, with a strong background in handling large datasets and generating actionable insights that drive business performance. 
 
 <!--
 **Ayenziwe07/Ayenziwe07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
